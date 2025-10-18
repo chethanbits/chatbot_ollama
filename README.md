@@ -30,9 +30,9 @@ This is a simple and powerful **AI chatbot web application** built using the **G
 
 ## 🔧 Installation
 
-### 1. Clone this repository
+### Clone this repository
 ```bash
-git clone https://github.com/chethanbits/Gemma2-Chatbot-Web-App.git
+1. git clone https://github.com/chethanbits/Gemma2-Chatbot-Web-App.git
 cd Gemma2-Chatbot-Web-App
 
 2. Install Python dependencies
